@@ -1,0 +1,11 @@
+ILSVRC*
+wandb/
+data/
+.ipynb_checkpoints/
+__pycache__/
+tiny-imagenet-200/
+checkpoint/
+*.tar
+*.pth
+results/
+*.json
