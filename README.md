@@ -34,3 +34,5 @@ bash experiments/exp_mix_res18_tinyimg.sh
 ```
 3. You can find the pretraining and linear evaluation results in `results/results.json` file.
 
+## Model Checkpoints
+You can also download the checkpoint of MixCo with ResNet-18 architecture. Link: [google drive](https://drive.google.com/file/d/1Dg_SNGBmpyPCRIvrt8EIfQrUEIvtWasW/view?usp=sharing)
