@@ -1,6 +1,6 @@
 ## How to Reproduce our Results
 
-This repository contains PyTorch implementation code for the paper **MixCo: Mix-up Contrastive Learning for Visual Representation (https://arxiv.org/abs/2010.06300)** that is accepted in NeurIPS 2020 Workshop on Self-Supervised Learning.
+This repository contains PyTorch implementation code for the paper **MixCo: Mix-up Contrastive Learning for Visual Representation (https://arxiv.org/abs/2010.06300)** that is accepted in [NeurIPS 2020 Workshop on Self-Supervised Learning: Theory and Practice](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=16146).
 
 This is an instruction to reproduce our results, based on the source code we have provided.
 
