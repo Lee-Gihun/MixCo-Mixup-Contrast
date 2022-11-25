@@ -36,3 +36,13 @@ bash experiments/exp_mix_res18_tinyimg.sh
 
 ## Model Checkpoints
 You can also download the checkpoint of MixCo with ResNet-18 architecture. Link: [google drive](https://drive.google.com/file/d/1Dg_SNGBmpyPCRIvrt8EIfQrUEIvtWasW/view?usp=sharing)
+
+## Citing this work
+```
+@article{kim2020mixco,
+  title={Mixco: Mix-up contrastive learning for visual representation},
+  author={Kim, Sungnyun and Lee, Gihun and Bae, Sangmin and Yun, Se-Young},
+  journal={arXiv preprint arXiv:2010.06300},
+  year={2020}
+}
+```
